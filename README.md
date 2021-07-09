@@ -1,8 +1,6 @@
-# Image-Matching-ORB-
+## Image-Matching-ORB-
 
-Main characteristics:
-- Orb detector method
-- Brute Force Matching
+Captures the image using webcam and matches it with the reference image using ORB method and Brute Force matching technique.
 
 ### ORB
 ORB detector stands for Oriented Fast and Rotated Brief, this is free of cost algorithm, the benefit of this algorithm is that it does not require GPU it can compute on normal CPU.
